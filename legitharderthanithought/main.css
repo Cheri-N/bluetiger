@@ -1,0 +1,26 @@
+h4  {
+    background-color: darkgrey; 
+    text-align: center;
+    
+}
+
+li {
+color: cadetblue;
+}
+
+p {
+    color: darkgreen;
+}
+body {
+    background-image: url(funrainfall.jpg); 
+    background-repeat: no-repeat; 
+    background-blend-mode: lighten;
+    background-size: 450px;
+    background-size: 29%;
+    background-position: center;
+
+}
+
+div {
+    align-content: right;
+}
