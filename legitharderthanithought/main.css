@@ -1,4 +1,4 @@
-h4  {
+h3  {
     background-color: darkgrey; 
     text-align: center;
     
@@ -10,8 +10,12 @@ color: cadetblue;
 
 p {
     color: darkgreen;
-}
-body {
+    font-size: 55px;
+    font-family: serif;
+    
+} 
+body
+{
     background-image: url(funrainfall.jpg); 
     background-repeat: no-repeat; 
     background-blend-mode: lighten;
@@ -21,6 +25,17 @@ body {
 
 }
 
-div {
-    align-content: right;
+.title {
+    font-size: 10um;
+    font-style: italic;
+
 }
+
+.poem {
+    font-style: italic;
+    font-family: fantasy;
+    color:slateblue;
+    text-align: center;
+}
+
+
