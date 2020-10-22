@@ -1,41 +1,53 @@
-h3  {
-    background-color: darkgrey; 
-    text-align: center;
-    
-}
-
-li {
-color: cadetblue;
-}
 
 p {
-    color: darkgreen;
+    color: rgb(45, 48, 71);
     font-size: 55px;
     font-family: serif;
-    
-} 
-body
-{
-    background-image: url(funrainfall.jpg); 
-    background-repeat: no-repeat; 
-    background-blend-mode: lighten;
-    background-size: 450px;
-    background-size: 29%;
-    background-position: center;
-
 }
-
-.title {
-    font-size: 10um;
+.middle {
+    color: lightgrey;
     font-style: italic;
+    text-align: center;
+    }
+
+body
+{ background-color: rgb(24, 26, 44);
 
 }
 
 .poem {
     font-style: italic;
-    font-family: fantasy;
-    color:slateblue;
+    color:rgb(120, 120, 122);
     text-align: center;
 }
 
 
+.masthead-intro,
+.masthead-heading {
+    text-align: center;
+    
+}
+.masthead {
+
+    padding: .5em 0;
+    background-image: url(dark-blue.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-top: solid 3px rgb(76, 75, 77);
+
+}
+
+.masthead-intro {
+    margin-bottom: 0.1em;
+    text-decoration-color: rgb(149, 149, 151) ;
+    text-align: center;
+}
+
+.masthead-heading {
+    margin-top: -0.2em;
+    text-align: center;
+}
+.button {
+    text-align: center;
+    text-decoration-color: hotpink;
+}
